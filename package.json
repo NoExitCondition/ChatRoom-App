@@ -1,6 +1,8 @@
 {
-    "name": "Socket Example",
+    "name": "socket-example",
     "version": "0.0.1",
     "description": "Socket.io tutorial",
-    "dependencies": {} 
+    "dependencies": {
+        "express": "^4.17.1"
+    }
 }
