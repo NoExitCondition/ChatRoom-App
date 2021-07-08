@@ -1,0 +1,6 @@
+{
+    "name": "Socket Example",
+    "version": "0.0.1",
+    "description": "Socket.io tutorial",
+    "dependencies": {} 
+}
